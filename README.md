@@ -2,7 +2,7 @@
 
 A turn-based battle game for the Nuvoton **Nu-LB-NUC140** learning board, written in bare-metal C against the Nuvoton BSP: sprites and status text on the 128×64 monochrome LCD, a 3×3 matrix keypad for all input, and a per-turn countdown driven onto the 7-segment display by a second hardware timer.
 
-> Course project, 2024–2025.
+> Course project, 2024–2025. Course grade: A+
 
 **Demo video:** [YouTube](https://www.youtube.com/watch?v=9VVDpm9JCD0)
 
